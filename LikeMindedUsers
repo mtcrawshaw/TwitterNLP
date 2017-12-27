@@ -1,0 +1,10 @@
+Takes as input the screen name of a user Main
+Calculates the opinion vector of Main
+Gets list of users who have tweeted in the last 24 hours (time window subject to change due to computation time?)
+Calculate opinion vectors of first 5 users on list, distance to Main, put them in Map screen name -> distance
+For each other user U on list, calculate opinion vector + euclidean distance to main, place in top 5 if close enough
+Return top 5
+
+When you come back:
+Implement getTweets() method in OpinionatedUser
+Make main method that takes input of screen name, generates list of users, finds the closest, and outputs them

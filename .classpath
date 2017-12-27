@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Desktop/Plans_for_World_Domination/Research/NLP/twitter4j-4.0.4/lib/twitter4j-core-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Desktop/Plans_for_World_Domination/Research/NLP/stanford-corenlp-full-2013-11-12/stanford-corenlp-full-2013-11-12/stanford-corenlp-3.3.0.jar" sourcepath="C:/Users/Michael/Desktop/Plans_for_World_Domination/Research/NLP/stanford-corenlp-full-2013-11-12/stanford-corenlp-full-2013-11-12/stanford-corenlp-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Desktop/Plans_for_World_Domination/Research/NLP/stanford-corenlp-full-2013-11-12/stanford-corenlp-full-2013-11-12/stanford-corenlp-3.3.0-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Desktop/Plans_for_World_Domination/Research/NLP/stanford-corenlp-full-2013-11-12/stanford-corenlp-full-2013-11-12/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Desktop/Plans_for_World_Domination/Research/NLP/twitter4j-4.0.4/lib/twitter4j-stream-4.0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
